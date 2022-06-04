@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/lib/imagens/logo_noticiasfiscais.png": "752240ce5721ddb1bc49ab9debae7c80",
 "assets/lib/imagens/logo_sigaofisco.png": "43de6bba4e1fb6ad26cd5ad5a740e67f",
 "assets/lib/imagens/logo_tributario.png": "cea8f4c97116b8ae93caa2ffccf16e84",
-"assets/NOTICES": "2ceedb153a9ddf191c47e7cb8b46fda6",
+"assets/NOTICES": "0fe5da67999b2219e23c896e7e8aa598",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -31,11 +31,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2023c12401d893a58763722899354f90",
-"/": "2023c12401d893a58763722899354f90",
-"main.dart.js": "5dddfef01804bdc57617eb72eed5db69",
+"index.html": "39c16656ca01b13c7565b94c1165f657",
+"/": "39c16656ca01b13c7565b94c1165f657",
+"main.dart.js": "9d388212b71bf98a28ed721399784423",
 "manifest.json": "1338a924afc4d77dd3bb90afd71cf1b4",
-"version.json": "280d07f32f4ed0863dcd704487ca2b89"
+"version.json": "ef47425e9b2fcdc9d34437a48c894784"
 };
 
 // The application shell files that are downloaded before a service worker can
